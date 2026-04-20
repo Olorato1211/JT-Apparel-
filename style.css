@@ -8,6 +8,7 @@ body {
   color: #253238;
 }
 header {
+  <link rel="stylesheet" href="styles.css">
   background: linear-gradient(120deg, #04AA6D, #058457);
   color: #fff;
   padding: 60px 20px;
