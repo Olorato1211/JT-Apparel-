@@ -1,0 +1,125 @@
+root {
+        accent-color:#000000;
+        background-color: rgb(230, 188, 173);
+}
+
+.hero { 
+    height: 100vh;
+     background-image: url("background 1.jpg");
+     background-size: cover;
+     padding: 50px;
+     color: #000000;
+     text-align : center;
+     flex-direction: column;
+    display: flex;
+
+}
+head{
+    background-color: #000000;
+    padding: 20px;
+    color:#000000;
+    text-align: center;
+}
+   
+body{
+        background-color: #ffffcc;
+        background-image: url("70437490002890.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        font-family: poppins;
+    }
+
+.btn{
+    background: linear-gradient(to right, #ff6600, #ff9900);
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+    
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+}
+h1 {
+  color: #000000;
+  margin-left: 20px;
+  text-align: center;
+  padding: 20px;
+  font-style: normal;
+  color: #000000;
+  text-align: center;
+  font-family: poppins;
+  display: inline;
+
+}
+h2 {
+  color: #000000;
+  margin-left: 20px;
+    text-align: center;
+
+}
+
+h1 {
+  color: #000000;
+  margin-left: 20px;
+}
+nav ul li{
+    display: inline-block;
+    margin:0 15px;
+    font-family: poppins;
+  font-size: 18px;
+  background-color: antiquewhite;
+}
+
+.nav links{ 
+    display: flex;
+    justify-content: center;
+    background-color: #ffffcc;
+    list-style: none;
+}
+
+nav a{
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: 0s.3s;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffcc;
+    padding: 10px 20px;
+}
+
+footer{
+    background-color: #000000;
+    padding: 20px;
+    color:whitesmoke;
+    text-align: center;
+}
+
+.social-links{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.social-links a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+}
+.social-links a:hover{
+
+    color: #ff6600;
+    transform: scale(1.2);
+}
