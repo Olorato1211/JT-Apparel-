@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Men Shirts</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Men shirts</h1>
+    </header>
+    <body> 
+       <h1> Luxury pieces for gentlemen who appreciate quality and style!</h1>
+       </body>
+       <style>
+        body {
+            background-image: url("menb2.jpg");
+            background-size: cover;
+        }
+        header{
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+       </style>
+
+       <figure>
+       <img src="AXEPEAK Men's Casual Street Fashion Contrast Color Short Sleeve T-Shirt, Summer.jpg" alt="Men shirt" width="200" height="300">
+       <h1>P200</h1>
+       <P>Manfit Joysei</P>
+       <button class="btn">Add to cart</button>
+       </figure>
+       
+
+       <figure>
+       <img src="Fotos de Tecido - Baixe fotos grátis de alta qualidade _ Freepik.jpg" alt="Male dominace " width="200" height="300">
+       <h1>P300</h1>
+       <P>Zrgoth Men Casual Shirt</P>
+       <button class="btn">Add to cart</button>
+       </figure>
+
+       
+       <figure>
+       <img src="MEN'S TSHIRT 👕.jpg" alt="superior quality" width="200" height="300">
+         <h1>P350</h1>
+         <P>SlateMAN shirt</P>
+         <button class="btn">Add to cart</button>
+         </figure>
+
+       <figure>
+       <img src="Manfinity Streetrush Men Summer Short Sleeve Color Block Casual T-Shirt With Slogan Graphic, For Rapper, For Going Out.jpg" alt="strong" width="200" height="300">
+       <h1>P400</h1>
+       <P>ALTZTAR Men Shirt</P>
+       <button class="btn">Add to cart</button>
+       </figure>
+<footer>
+    
+    <p>&copy; 2026 JT Apparel. All rights reserved.
+
+    </p>
+
+</footer>
+    
+    
+    
+    
+    </body>
+    </html>

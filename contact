@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JT Apparel</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+    
+    <header>
+         <nav>
+    <ul>
+                <li><a href="index.html"> Home</a></li>
+    <li><a href="About_us">About US</a></li>
+    <li><a href="contact">Contact Us</a></li>
+    <li><a href="products">Products</a></li>
+            </ul>
+</nav>
+<h1> CONTACT US</h1>
+    </header>
+    <body>
+        <h2>We'd love to hear from you! Whether you have questions, feedback, or just want to say hello, feel free to reach out to us through any of the following channels:</h2>
+        <p>Email: contact@jtapparel.com</p>
+        <p>Phone: +267 72564266</p>
+
+        <p>Address: 123 Fashion Street, Gaborone, Botswana</p>
+
+        <style>
+            body {
+                background-image: url("contact3.jpg");
+                background-size: cover;
+                background-attachment: fixed;
+                background-position: center;
+            }
+            p {
+                font-size: 18px;
+                color: #000000;
+                text-align: center;
+                font-family: poppins;
+            }
+
+        h2 {
+            text-align:start;
+            color: #000000;
+            font-family: poppins;
+            font-size: small;
+        }
+            
+        </style>
+    </body>
+</html>
