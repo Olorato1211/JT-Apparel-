@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoodies-JT APPAREL</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Hoodies-JT APPAREL</h1>
+    </header>
+       <h2> Explore the hoodies collection catalogue for your warm but stylish look!</h2>
+
+       <figure>
+       <img src="CLASSIC HOODIE.jpg" alt="hoodie 1 " width="230" height="300">
+       <h1>Classic Hoodie</h1>
+       <p>P400</p>
+       <button class="btn">Add to cart</button>
+        </figure>
+       </figure>
+       <style>
+        body {
+            background-image: url("hoodie background 1.jpg");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+        }
+        header{
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+            </style>
+            <figure>
+         <img src="hoodie2.jpg" alt="hoodie 2 " width="230" height="300">
+            <h1>Oversized Hoodie</h1>   
+            <p>P450</p>
+            <button class="btn">Add to cart</button>   
+        </figure>
+
+        <figure>
+         <img src="hoodie4.jpg" alt="hoodie 3 " width="230" height="300">
+         <h1>Spun hoodie</h1>
+         <p>P400</p>
+         <button class="btn">Add to cart</button>
+         </figure>
+
+
+         <figure>
+         <img src="hoodie2 (2).jpg" alt="hoodie 4 " width="230" height="300">
+            <h1>Essentials</h1>
+            <p>P400</p>
+            <button class="btn">Add to cart</button>
+            </figure>
+            <footer>
+                <p>Crafting fashion forward moments for you!</p>
+            </footer>
+            
+        </body>
+        </html>
+         
